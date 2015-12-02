@@ -7,7 +7,7 @@ This is my portfolio website, check it out at: wonton888.github.io
 
 Technologies Used
 ----------
-JavaScript, HTML, CSS, AngularJS, Node.js, Sass, Foundation
+JavaScript, HTML, CSS, PHP, MySql, AngularJS, Node.js, Sass, Foundation
 
 License
 ----------
